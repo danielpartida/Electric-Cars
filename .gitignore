@@ -137,3 +137,4 @@ stock_sent.csv
 word2vec.model
 EVs.csv
 
+*.ipynb
